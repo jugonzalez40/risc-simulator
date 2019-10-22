@@ -1,0 +1,18 @@
+.CPU {
+    height: 100%;
+    width: 100%;
+}
+
+.element {
+    display: block;
+    border: 1px solid black;
+    
+    position: absolute;
+    
+}
+
+.pc {
+    top: calc(50% - 100px);
+    width: 100px;
+    height: 200px;
+}
